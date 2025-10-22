@@ -1,0 +1,31 @@
+IN THE COURT OF MOTOR ACCIDENT CLAIMS TRIBUNAL
+{{ court_location }}
+
+MACT Case No. {{ case_number }}/{{ case_year }}
+
+IN THE MATTER OF AN APPLICATION U/S 166 of M.V. ACT
+
+{{ claimant_name }}                                     ... Claimant
+Versus
+{{ respondent_name }} & Ors.                           ... Respondents
+
+Date: {{ date }}
+
+JUDGMENT
+
+1. This claim petition has been filed under Section 166 of the Motor Vehicles Act, 1988 claiming compensation for the {{ accident_type }} of {{ victim_name }}, aged {{ age }} years, in a motor vehicular accident that occurred on {{ accident_date }}.
+
+2. The deceased/injured was earning Rs. {{ monthly_income }} per month as {{ occupation_type }} at the time of accident.
+
+3. The claimant has {{ dependent_count }} dependent family members.
+
+COMPUTATION OF COMPENSATION:
+
+{{ compensation_details }}
+
+Therefore, in view of the above discussion, the Tribunal is of the considered view that the claimant is entitled to a total compensation of Rs. {{ total_compensation }} ({{ compensation_in_words }}).
+
+The award is signed, sealed and delivered in open Court on this {{ date }}.
+
+MOTOR ACCIDENT CLAIMS TRIBUNAL
+{{ court_location }}

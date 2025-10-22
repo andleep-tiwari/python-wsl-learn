@@ -1,0 +1,185 @@
+Filed on:	
+Registered on:	
+Decided on:	
+Duration:	Yrs	Mts	Dys
+			
+Exhibit:	
+
+IN THE (SPECIAL) MOTOR ACCIDENT CLAIMS TRIBUNAL,
+
+CHHOTAUDEPUR AT BODELI
+
+ MAC PETITION NO.{{ case_number }}
+ 
+Applicants:
+1	{{ applicant_name || "Name of the Applicant"}}
+	{{ address_applicant }}
+
+ VERSUS
+
+Opponents:
+1	{{ opponent1_name }}
+2	
+3	{{ insurance_company }}
+
+Appearance:
+
+Mr. {{ appladv_name }} , learned Advocate for the petitioners.
+Mr. {{ oppoadv_name }}, learned Advocate for the opponent No. 
+
+-: J U D G M E N T :-
+
+1.	THE SUBJECT MATTER ::
+The applicants have submitted a Motor Accident Claim Petition under Section 166 of the Motor Vehicle Act, 1988 (referred to as "the Act") with the aim of seeking compensation amounting to Rs.{{ comp_amount }}/-.
+2.	THE CASE OF PETITIONER ::
+As per the  claim petition
+Date & time of accident :	{{ datetime_accident }}
+Place of accident :		{{ accident_place }}
+Vehicle involved  :	 	{{ vehicle_involved }}
+
+3.	The case of the petitioners in nutshell is as follows :-
+	On {{ datetime_accident }}, the opposing vehicle, with registration number {{ opvehicle_regnumber }} was coming from {{ how_opvehiclewascoming }} in rash and negligent manner, at an excessive speed, endangering human life and hit the deceased person {{ deceased_name }}. As a result, the deceased sustained severe injuries on his {{ body_parts }} and succumbed to his injuries. It is alleged that the accident occurred solely on account of negligent and reckless driving of the driver of {{ vehicle_involved }} bearing registration number {{ opvehicle_regnumber }}. 
+	Regarding this incident, a complaint was lodged by {{ wholodged_complaint }} at {{ ps_name }} Police Station vide C.R. No.{{cr_number }}
+	Consequently, the claimants have submitted this claim petition, seeking compensation in the amount of Rs.{{ comp_amount }}/- along with interest from the opponents, holding them jointly and severally liable.
+4.	Though the opponent No.1, and 2, were duly served with the notice but they had not contested the claim of the claimant. However the Opponent No. 3 i.e., {{ Insurance_Company }} of vehicle involved in the accident filed written statement vide Exh. {{ WS_EX }} and denied the facts with respect to accident, negligence of driver of the insured vehicle, age, income and nature of work of the deceased. It is further averred that driver of vehicle involved was not holding valid and effective driving licence to drive the vehicle on the date of accident therefore, insurance Company is not liable to pay compensation to the claimants. On the basis of these pleadings, the insurance company has prayed to reject the present claim petition.
+	In their written statement, they also argue that there was a violation of the policy's terms and conditions. Consequently, they assert that the insurance company is not responsible for providing any compensation.
+	Furthermore, they contend that {{ additional_wssubmissions }}. In such circumstances, they argue that the insurance company cannot be held liable to pay any compensation.
+	Therefore, the Insurance Company claims non-liability for compensation, and the petitioners are not entitled to receive any compensation from the third opponent. Ultimately, they pray for the dismissal of the petition.
+5.	EVENTS HAPPENED DURING THE TRIAL::
+	The Opponent No.3 has filed application vide Exhibit {{ EX_NO170 }} under section 170 of MV Act and requested to contest the claim on all or any of the grounds that are available to the person against whom the claim has been made and the said application was allowed by this tribunal.
+6.	THE EVIDENCE OF THE APPLICANTS:: 
+Oral Evidence:-
+
+1.	Affidavit of the claimant No.1 {{ Examination_Person }}	Ex. {{ Ex_Noexamination }}
+
+Documentary Evidence
+		
+1	Certified copy of F.I.R.	Ex.{{ Ex_NoFIR }}
+2	Certified copy of Panchnama.	Ex.{{ Ex_Nopanchnama }}
+3	Certified copy of Inquest Panchnama.	Ex.{{ Ex_Noinpanchnama }}
+4.	Certified copy of postmortem Report of the deceased.	Ex.{{ Ex_Nopmreport }}
+
+7.	THE EVIDENCE OF THE OPPONENTS ::
+Oral Evidence:
+Opponents – Nil
+Documentary Evidence:
+The opponent no.1&2 have not produced any documentary evidence as they did not appeared before this tribunal.
+The opponent no.3 has produced following documents. 	
+1	 Nil 	Ex.
+        	The opponent no.3 has produced following documents. 
+1	Copy of the Insurance policy of the vehicle involved in the accident.	Ex.{{ Ex_Noinspolicy}}
+
+	Closing Pursis ::
+   	• The L.A. for the applicants have filed closing Pursis at 	   Exhibit {{ Ex_Noclaimantclosing }}.
+   	• The L.A. for the opponent No.3 has filed closing Pursis at Exhibit {{ Ex_Noopponentclosing }}..
+	During the course of argument Ld. Advocate for the claimants and Ld. Advocate for the opponent No.3 have argued orally.
+	Both the Ld. Advocate mostly relied upon the  evidence  produced on the record, therefore, I have carefully gone through the entire evidence produced on record.
+8.	ISSUES ::
+	In view of the above facts, the following issues were framed at Exhibit {{ Ex_Noissues }}.:-
+1.	Whether the petitioners prove that the deceased died due to the injuries sustained in the accident caused by rash and negligent driving of driver of vehicle involved in the accident?
+2.	Whether the petitioners are entitled to get compensation? It yes, what amount and from whom?
+3.	What order and award?
+	My findings on the above issues are as under:-
+	1.	In the affirmative.
+	2.	In the affirmative as per final order.
+	3.	As per final order.
+-:: R E A S O N S  ::-
+ISSUE NO.1 
+9.	INVOLVEMENT OF VEHICLE, NEGLIGENCY AND DEATH DUE TO THE ACCIDENT::
+	So far as the involvement of vehicle, negligence are concerned,Ld. Advocate for the claimants on the basis of evidence produced on record, mainly submitted that such accident occurred due to rash and negligent driving of the driver of {{ vehicle_involved }} bearing registration number {{ opvehicle_regnumber }}.
+	While Ld. Advocate for the opponent No.3  on the basis of the evidence produced on record and written argument  submitted that such accident occurred due to sole negligence on the part of the deceased.
+	Both the Ld. Advocates largely relied upon evidence produced on record. Ld. Advocate for the claimants  relied upon oral evidence of claimant, F.I.R., Panchanama, etc.  While Ld. Advocate for the opponent No.3 by and large relied upon the panchnama, etc.
+	I have gone through such argument as well as evidence produced on record.
+	No doubt where both the Ld. Advocate generally relied upon evidence produced on record. In such a circumstances, it is necessary to consider each and every evidence produced on record and on the perusal of such entire evidence following things are become clear.
+	To prove the involvement of vehicle and negligence of opponent No.1, the claimants have produced following evidence. 
+  	Examination in Chief in form of Affidavit
+	The claimant has filed her affidavit under order 18 rule 4 of CPC at Exhibit {{ Ex_Noexaminationinchief }}. In his/her affidavit, she specifically stated that the accident occurred due to rash and negligent act of the driver of {{ vehicle_involved }} bearing registration number {{ opvehicle_regnumber }} i.e opponent No.1. In his/her affidavit, he/she further stated that {{ deceased_name }} who  died in alleged accident was healthy and working as a permanent truck driver in Transport Company with monthly salary of Rs.0000/- . At the time of accident his age was 00 years. The deceased had left behind his ……………….. Further in his/her affidavit the claimant has stated that the deceased died due to injuries in such accident. 
+	No doubt Ld. Advocate for the opponent No.3 had cross examined the petitioner and challenged the mode of accident but he did not challenged the accident, injuries, disability, involvement of the vehicle etc.
+    	FIR
+	Claimant has produced the certified copy of FIR at Exhibit {{ Ex_NoFIR }}, which was lodged by {{ wholodged_complaint }} in {{ ps_name }} Police Station vide C.R. No.{{cr_number }}, wherein involvement of the vehicle was there, as well as the incident narrated by the claimant who specifically stated in his own complaint that, such {{ vehicle_involved }} bearing registration number {{ opvehicle_regnumber }} was coming from {{ how_opvehiclewascoming }} in rash and negligent manner, at an excessive speed, endangering human life and hit the deceased. As a result, the deceased sustained severe injuries on his {{ body_parts }} succumbed to his injuries. He has further stated that the accident solely occurred on account of rash and negligent driving of the driver of {{ vehicle_involved }} bearing registration number {{ opvehicle_regnumber }}. Such evidence is  enough to establish the involvement of the vehicle.
+	Panchnama
+	The claimant has produced the copy of the panchnama at Exhibit {{ Ex_Nopanchnama }}, the panchnama contained the relevant details of the present accident.	
+	Charge-sheet
+	The claimant has also produced the copy of charge sheet at Exhibit {{ Ex_Nochargesheet }} which shows that the investigation officer had filed the charge-sheet against the opponent No.1 after finding that the opponent No.1 was negligent in the accident.
+  	Inquest Panchnama & PM Notes:	
+	The claimant has produced Inquest Panchnama and PM Notes at Exhibit {{ Ex_Noinpanchnama }} and {{ Ex_Nopmreport }}, respectively. On perusal of the PM Note, it transpires that the deceased died due to injuries sustained in the said accident.
+   	Where both the Ld. Advocate mostly relied on the evidence produced on record, therefore, looking to such evidence, its becomes clear that the claimant side has  produced evidence to establish that the accident  occurred due to negligence on the part of the opponent No.1 as mentioned.  
+	Against this the opponent No.1 failed to step into the witness box and there is no evidence on behalf of the opponents No.1 and 2 to prove that such driver of offending {{ vehicle_involved }} bearing registration number {{ opvehicle_regnumber }} was not involved or such accident occasioned due to any rash and negligent on the part of the deceased. In such  circumstances as per the settled law adverse inference is also be drawn against the opponent.
+	In absence of any sort of evidence as well as in absence of any reason to discard the claimants evidence, as well as where it is establish that the opponent No.1 was  responsible for such accident. In such a circumstances, this tribunal cannot concur with the submission of Ld. Advocate for the opponent No.3 and hold that the opponent No.1 was not negligent at the time of such accident and hence in these circumstances the issue No.1 is decided in the affirmative.
+
+	ISSUES NO.2
+10.	QUANTUM OF COMPENSATION::
+	In order to compute the quantum of compensation we need the inputs like age of the deceased, the income of the deceased, the nature of the employment of the deceased, the Marital Status of the deceased and the number of dependent persons. Further I shall compute the quantum of compensation in light of the judgment passed by the Hon’ble Supreme Court of India in the case of National Insurance Company Limited vs. Pranay Sethi reported in 2017 SCCONLINE SC 1270. 
+
+
+
+
+	Age:
+	In claim petition the age of the deceased mentioned about {{ age_deceasedasperpetition }} years at the time of accident/death.
+	In the deposition on affidavit the claimant himself/herself stated that the age of the deceased was about {{ age_deceasedasperpetition }} years at the time of accident.
+	The claimant has produced the copy of the {{ document_producedforage }}, which makes it clear that the deceased was {{ age_asperdocumentproduced }} old at the time of the accident on date {{ datetime_accident }}. Such evidence is produced and relied by the claimants themselves.
+	In the P.M. Note produced by the claimant at Exhibit {{ Ex_Nopmreport }}, the age of the deceased shown as about {{ age_deceasedasperpm }} years.
+	In the Inquest note produced by the claimant at Exhibit 00, the age of the deceased shown as approximately {{ age_deceasedasperinquest }} years.
+	No other adverse evidence was produced by opponent side in this regard, but looking to the unchallenged such oral evidence, its become clear that the deceased was 00 years at the time of accident. 
+	Oral as well as documentary evidence produced by the claimant is also not challenged by the other side and there is no reason came on record to discard such evidence.
+	Evidence produced by the claimant is acceptable and as per such evidence its become clear that, the deceased was {{ age_deceasedaspercourtopinion }} years old at the time of accident. 
+	Income: 
+	In her deposition the claimant stated that the deceased was working as a {{ profession_deceased }} with monthly salary of Rs.{{ monthly_salaryofdeceased }}/- .
+	In order to prove the income of the deceased following documents were produced by the claimants - 
+	1. Salary Slip
+	2. Income Tax Return
+	3. Books of accounts 
+	But looking to the record in corroboration of her oral evidence claimant is totally failed to produce any documentary evidence to prove deceased's monthly income.   In such a circumstances, its become clear that, in absence of concrete and reliable evidence as regard to the actual income of deceased's on the basis of evidence, record and so many decisions of Hon'ble Supreme Court and Hon'ble High Court this court has to assume the notional income of the deceased at the time of accident. Therefore, for fixing the amount of notional income, it will be a safe course of action to take into account the income for a non skilled labour as per the rates of Minimum Wages as enshrined under the provisions for can be taken into consideration. And therefore, this tribunal assumes that the deceased was able to earn Rs.5,000/- per month in view of the circular dates. 
+	Marital Status of the deceased and the dependents:
+	The deceased was Married to {{ deceasedwife_name }}  and he left behind {{ nameandrelationship_withdeceasedaspercourtopinion }}
+	So far as the deduction of personal living expenses is concerned, at the time of accident the deceased had {{ number_ofdeceaseddependents }} dependents.  
+	Calculation of compensation
+	
+
+	
+	In above all the circumstances, it is proved that the claimant had suffered the actual loss of Rs.10,78,000/- (Rupees Ten Lacs Seventy Eight Thousand  Only).   
+11.	LIABILITY OF OPPONENTS TO PAY COMPENSATION 
+	On the perusal of the entire record, it is established that,
+	the driver of {{ vehicle_involved }} bearing registration number {{ opvehicle_regnumber }} was involved was involved in the accident.
+	The accident happened due to {{ %contrbutory_negligence }}  contributory negligence on part of  opponent No.1.
+	As per copy of policy produced at Exhibit 31 the opponent No.2 was the owner of such Chhota Hathi No.GJ-1-CV-0902 which was insured  with opponent No.3.
+	As per the copy of the policy produced at Exhibit {{ Ex_Noinspolicy}} such {{ vehicle_involved }} bearing registration number {{ opvehicle_regnumber }} was insured with opponent No.3 at the time of an accident.
+	As per the record, the opponent No.1 was the driver of the such {{ vehicle_involved }} bearing registration number {{ opvehicle_regnumber }} which caused the accident and the opponent No.2 was the owner of such {{ vehicle_involved }} bearing registration number {{ opvehicle_regnumber }} and hence, opponent No.2 being the owner of such vehicle involved in the accident is held vicariously liable to pay compensation for the tortuous Act of his driver opponent No.2 and where the {{ vehicle_involved }} bearing registration number {{ opvehicle_regnumber }} was insured with the opponent No.3, the opponent No.3 is also liable to pay compensation to the claimant. Therefore, its become clear that, all the opponent No.1 to 3 are jointly and severally liable to pay compensation to the claimant. Hence, this tribunal  decided the issue No.2 in the affirmative and accordingly.
+	In such a circumstances its also become clear that all the claimant's are also entitled for such compensation.
+12.	ADMISSIBLE RATE OF INTEREST ::
+	Looking to the circumstances of the case as well bank rates for the interest, I do believe that the if interest awarded at the rate of 9% it will be proper and just.
+13.	COURT FEES ::
+	The claim petition was filed by the applicants in forma paupers under Order 33 Rule 1 of the Civil Procedure Code and while the the petitioner has succeeded in his case, and hence, Court Fee is required to be deducted under Order 33 Rule 10 of the Civil Procedure Code. The office is directed to deduct applicable Courts Fees accordingly. 
+14.	INVESTMENT & DISBURSEMENT OF AMOUNT::
+	The Tribunal has taken into the consideration the guidelines and direction issued by Hon’ble Supreme Court in various decisions and Looking to the facts and circumstances of the case, status of the claimants, their age, etc. necessary order for investment and disbursement of compensation amount be made as per final order. 
+15.	CONCLUSION / ORDER::
+	In view of the forgoing discussion, I have decided Issues No.1 and 2 are in affirmative and accordingly. Hence, pass the following final order:-
+O R D E R
+1.	This claim petition Under Section 166 of the Motor Vehicles Act is partly allowed.
+2.	The Opponent no.1 to 3 shall jointly and severally, pay an amount of  Rs.10,78,000/- (Rupees Ten Lacs Seventy Eight Thousand Only) with interest at the rate of 9% per annum from the date of this petition till payment or realization of the amount, and proportionate cost by way of compensation to the applicant.
+3.	NFL amount, if any, paid, be deducted from the awarded amount.
+4.	The Opponent no.1 to 3 shall jointly and severally deposit the amount of compensation with interest and cost as above, within 30 days from the date of the order.
+5.	On depositing the amount, after deducting the Court Fees etc., if any due, the remaining amount be paid 50% to the claimant No.1, 25% equally to minor claimant No.2 to 5 and 25% equally to claimant No.6 and 7 as follow.
+6.	Entire amount of compensation coming to the share of minor claimants No.2 to 4 be invested in non cumulative fixed deposit scheme of five years.
+7.	Out of the amount that goes to the share of each claimant No.1, 6 and 7 be paid 50% amount by account payee cheque and remaining 50% amount of their shares be invested in non-cumulative fixed  deposit scheme of five years in their respective name.
+8.	All the above investment be made in Fixed Deposit Schemes in any Nationalized Bank of the choice of the applicant. The terms and conditions of FDR will be made at the time of withdrawal of the amount.
+9.	Award be drawn accordingly.
+Investments, as above, shall be encumbered with following terms and conditions :-
+1.	The said amount shall be invested with any of the nationalized Bank of the choice of the petitioners in Fixed Deposit Receipt Account.
+2.	The interest on the above Fixed Deposit Receipt Account as and when it becomes payable monthly, quarterly, half-yearly or annually, as agreed to, shall be paid to the petitioner. 
+3.	No facility by way of loan, over-draft or cash credit shall be available on the above investment  and  the  Bank  shall not allow any such transaction, encumbering the investment or on the basis of the security of the same.             
+4.	The Bank shall not permit the petitioner to withdraw the said amount prior to its maturity or without prior permission of this Tribunal.
+5.	The Bank shall intimate to this Tribunal the particulars of the investment viz., number of Fixed Deposit Receipt, name of holder and the date of maturity immediately after issuance of Fixed Deposit Receipt in this case.
+6.	At the end of the period aforesaid, the Bank shall pay the principal amount to the payee, the concerned petitioner.
+
+Pronounced in the open Court on 7th Day of March, 2020.
+
+
+
+Date: 07.03.2020
+Place: Ahmedabad	(ANDLEEP TIWARI)
+SPECIAL MACT (AUX.) JUDGE,
+Court No.31,
+City Civil Court, Ahmedabad
+	UNIQUE ID CODE NO.GJ01587
+Nitin
